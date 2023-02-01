@@ -16,7 +16,7 @@ learning models to predict CHF location and identify the accurate
 model based on the comparisons against the chosen benchmark
 experimental data. 
 
-Becker et al. [1] data bank was selected for
+Becker et al. data bank was selected for
 machine learning model training as well as the testing due to
 the wide range of operating conditions covered. Hyperparameter
 tuning is applied to optimize the performance of the models.
